@@ -1,0 +1,21 @@
+{
+    "full_name": "Leonardo Maydana",
+    "name": "Leo",
+    "current_role": "Data Scientist | Machine Learning Engineer",
+    "location": "Córdoba, Argentina",
+    "email": "leomay282@gmail.com",
+    "linkedin": "linkedin.com/in/lmaydana",
+    "specialties": [
+      "Machine Learning & AI Engineering",
+      "LLM Evaluation & AI Quality Assurance",
+      "MLOps & Cloud Deployment (AWS)"
+    ],
+    "years_experience": 3,
+    "education": [
+      {
+        "degree": "Biomedical Engineering (on-hold)",
+        "institution": "Universidad Nacional de Córdoba",
+        "year": "2004-2011"
+      }
+    ]
+  }
